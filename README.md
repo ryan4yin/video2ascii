@@ -1,6 +1,6 @@
 # Video2ASCII
 
-yet another version video2ascii, write in golang.
+Yet another version of video2ascii, write in golang.
 
 other versions:
 
@@ -13,4 +13,4 @@ every time I learn a new programming language, I will implement it in that langu
 
 ## Reference
 
-Project Structure  reference from [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+The project structure refers to  [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
