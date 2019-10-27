@@ -11,3 +11,6 @@ other versions:
 >P.S. Video2ASCII is my personal "hello world" project, 
 every time I learn a new programming language, I will implement it in that languange.
 
+## Reference
+
+Project Structure  reference from [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
